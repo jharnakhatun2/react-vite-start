@@ -1,3 +1,6 @@
-# react-vite-start
-Install : npm create vite@latest
-start :  npm run dev
+
+# Install 
+npm create vite@latest
+
+## start
+npm run dev
